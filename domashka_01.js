@@ -35,7 +35,3 @@ else if (age_1  > age_3){
 else {
     console.log('Technical work')
 }
-
-git remote add origin https://github.com/Splean/domashka.git
-git branch -M main
-git push -u origin main
